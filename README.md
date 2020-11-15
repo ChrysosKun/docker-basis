@@ -110,7 +110,7 @@ docker ps
 
 端口暴露的概念：
 
-![image](https://github.com/ChrysosKun/docker/blob/master/images/1.png)
+![image](https://github.com/ChrysosKun/docker-basis/blob/master/images/1.png)
 
 ## 可视化
 
@@ -118,9 +118,9 @@ docker ps
 docker run -d -p 8088:9000 --restart=always -v /var/run/docker.sock:/var/run/docker.sock --privileged=true portainer/portainer
 ```
 
-![image](https://github.com/ChrysosKun/docker/blob/master/images/2.png)
+![image](https://github.com/ChrysosKun/docker-basis/blob/master/images/2.png)
 
-![image](https://github.com/ChrysosKun/docker/blob/master/images/3.png)
+![image](https://github.com/ChrysosKun/docker-basis/blob/master/images/3.png)
 
 ## 容器数据卷
 
@@ -135,7 +135,7 @@ docker run -d -p 8088:9000 --restart=always -v /var/run/docker.sock:/var/run/doc
 - 容器之间可以有一个共享技术。Docker容器产生的数据可以同步到本地
 - 卷技术：目录的挂载，将容器目录挂载到Linux
 
-![image](https://github.com/ChrysosKun/docker/blob/master/images/4.png)
+![image](https://github.com/ChrysosKun/docker-basis/blob/master/images/4.png)
 
 #### 使用数据卷
 
