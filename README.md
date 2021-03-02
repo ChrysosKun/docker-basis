@@ -307,4 +307,4 @@ drwxr-xr-x  2 root root 4096 Sep  7 06:43 volume02
 
 ```
 
-其它见：[ChrysosKun的小岛](https://sh.chrysoskun.one/)
+其它见：[ChrysosKun's blog](https://sh.chrysoskun.one/)
